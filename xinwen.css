@@ -1,0 +1,21 @@
+.xinwen{
+border: 5px solid #cccccc;
+background-color: aqua;
+height: 40px;
+float: left;
+width: 32%;
+text-align: center;
+line-height: 40px;
+margin: 2px;
+}
+.tab{
+border: 5px solid #cccccc;
+width: 99%;
+margin: 20px auto;
+}
+.neirong{
+height: 500px;
+clear: both;  
+text-align: center;
+line-height: 30px;
+}
