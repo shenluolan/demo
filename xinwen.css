@@ -6,7 +6,8 @@ float: left;
 width: 32%;
 text-align: center;
 line-height: 40px;
-margin: 2px;
+margin: 20px auto;
+margin-left: 5px;
 }
 .tab{
 border: 5px solid #cccccc;
